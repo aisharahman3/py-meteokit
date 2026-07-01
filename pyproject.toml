@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+authors = [{name = "Samir Toure"}]
+name = "meteokit"
+version = "0.2.0"
+description = "Humidity thermodynamics: saturation pressure, dew point, heat index, wind chill."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+keywords = ["meteorology"]
+
+[tool.setuptools]
+packages = ["meteokit"]

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+meteokit/__init__.py
+meteokit.egg-info/PKG-INFO
+meteokit.egg-info/SOURCES.txt
+meteokit.egg-info/dependency_links.txt
+meteokit.egg-info/top_level.txt
+tests/test_meteokit.py
